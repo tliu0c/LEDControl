@@ -1,0 +1,15 @@
+*.sdf
+*.ilk
+*.pdb
+*.iobj
+*.obj
+*.pch
+*.ipdb
+*.aps
+*.vcxproj*
+*.opendb
+
+.vs
+ipch
+x64/Debug
+ledControl/x64/**
